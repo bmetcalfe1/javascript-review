@@ -33,3 +33,18 @@ var doSomething = function doSomething(sentence){
   
 }
 
+
+// Naming
+
+//store students name
+var n;
+var name;
+var student_name; //snake case
+var studentName; //camel case <-- use this
+
+var PI = 3.14; //use all uppercase for constants (things that never change)
+var API_URL = "http..." //use snake case for double contants
+
+
+
+
